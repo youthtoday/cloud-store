@@ -5,26 +5,26 @@ This is a full stack web application deployed on AWS.
 
 ## Functions
 ### register
-![image](https://github.com/youthtoday/imgs/register.gif)
+![image](https://github.com/youthtoday/cloud-store/blob/main/imgs/register.gif)
 
 ### login
-![image](https://github.com/youthtoday/imgs/login.gif)
+![image](https://github.com/youthtoday/cloud-store/blob/main/imgs/login.gif)
 
 ### oauth login
-![image](https://github.com/youthtoday/imgs/oauth.gif)
+![image](https://github.com/youthtoday/cloud-store/blob/main/imgs/oauth.gif)
 
 ### product
-![image](https://github.com/youthtoday/imgs/product.gif)
+![image](https://github.com/youthtoday/cloud-store/blob/main/imgs/product.gif)
 
 ### search
-![image](https://github.com/youthtoday/imgs/search.gif)
+![image](https://github.com/youthtoday/cloud-store/blob/main/imgs/search.gif)
 
 
 ### collection and cart
-![image](https://github.com/youthtoday/imgs/collection_cart.gif)
+![image](https://github.com/youthtoday/cloud-store/blob/main/imgs/collection_cart.gif)
 
 ### order
-![image](https://github.com/youthtoday/imgs/order.gif)
+![image](https://github.com/youthtoday/cloud-store/blob/main/imgs/order.gif)
 
 ### feedback
-![image](https://github.com/youthtoday/imgs/feedback.gif)
+![image](https://github.com/youthtoday/cloud-store/blob/main/imgs/feedback.gif)
